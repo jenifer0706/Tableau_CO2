@@ -4,4 +4,4 @@ Project Dashboard Link: https://public.tableau.com/app/profile/andrew.marshall.a
 
 Project Story Link: https://public.tableau.com/app/profile/andrew.marshall.amaladoss/viz/STORY_16817103917840/Story1
 
-Project Demo Link: https://drive.google.com/drive/folders/1V30BwGaZLnjfz0QeDc7zjHLeh_hLLuiR?usp=share_link
+Project Demo Link: https://drive.google.com/file/d/1Vu9iJ1ddie6evCbjTNhtla4eTvWKReh9/view?usp=share_link
